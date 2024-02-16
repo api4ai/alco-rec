@@ -64,9 +64,9 @@ axios.post(OPTIONS[MODE].url, form, { headers })
       if (i > 0) {
         textContent += '\n\n'
       }
-      textContent += `${label['drink']}:`
+      textContent += `${label.drink}:`
       for (const prop in label) {
-        if (prop == 'drink') {
+        if (prop === 'drink') {
           continue
         }
         textContent += `\n  👉 ${prop}: ${label[prop]}`

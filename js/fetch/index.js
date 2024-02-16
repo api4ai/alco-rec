@@ -61,14 +61,14 @@ document.addEventListener('DOMContentLoaded', function (event) {
         // Parse response and print recognized labels.
         let textContent = ''
         const labels = response.results[0].entities[0].array
-        for (var i = 0; i < labels.length; i++) {
+        for (let i = 0; i < labels.length; i++) {
           const label = labels[i]
           if (i > 0) {
             textContent += '\n\n'
           }
-          textContent += `${label['drink']}:`
+          textContent += `${label.drink}:`
           for (const prop in label) {
-            if (prop == 'drink') {
+            if (prop === 'drink') {
               continue
             }
             textContent += `\n  👉 ${prop}: ${label[prop]}`
