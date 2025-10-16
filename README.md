@@ -1,7 +1,7 @@
 # API4AI Samples: Alcohol Label Recognition
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=alco_rec_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=alco_rec_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -18,7 +18,7 @@
 
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/alco_rec_1.jpg"/>
+<img width="600" src="https://static.api4.ai/visuals/alco_rec_1.jpg"/>
 </div>
 
 
@@ -31,49 +31,49 @@ The Alcohol Label Recognition API takes an images as inputs and gives you the ki
 <table>
   <tr>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/vodka.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/vodka.png">
       <h3>Vodka</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/brandy.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/brandy.png">
       <h3>Brandy</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/beer.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/beer.png">
       <h3>Beer</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/tekila.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/tekila.png">
       <h3>Tekila</h3>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/bourbon.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/bourbon.png">
       <h3>Bourbon</h3>
     <td align="center" colspan="2">
         <h2>10 drinks</h2>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/rum.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/rum.png">
       <h3>Rum</h3>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/wine.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/wine.png">
       <h3>Wine</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/liqueur.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/liqueur.png">
       <h3>Liqueur</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/whiskey.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/whiskey.png">
       <h3>Whiskey</h3>
     </td>
     <td align="center">
-      <img width="128" height="128" src="https://storage.googleapis.com/api4ai-static/rapidapi/alco-rec/cognac.png">
+      <img width="128" height="128" src="https://static.api4.ai/rapidapi/alco-rec/cognac.png">
       <h3>Cognac</h3>
     </td>
   </tr>
